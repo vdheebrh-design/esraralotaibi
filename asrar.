@@ -1,0 +1,39 @@
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>تقنية رقمية ١ـ١</title>
+</head>
+<body>
+
+  <h1>تقنية رقمية ١ـ١</h1>
+
+  <p>
+    مادة التقنية الرقمية تهدف إلى تعريف الطلاب بالمفاهيم الأساسية للحوسبة والوسائط الرقمية.<br>
+    تشمل المبادئ الأساسية للبرمجة، تخزين المعلومات، ومعالجة البيانات الرقمية.<br>
+    تركز أيضاً على استخدام الأدوات الرقمية بشكل آمن وفعّال في البيئات التعليمية.
+  </p>
+
+  <ol>
+    <li>اسم الطالبة: اسرار محمد العتيبي</li>
+    <li>عدد الوحدات: 4</li>
+    <li>عدد الحصص: 5</li>
+  </ol>
+
+  <!-- الصورة -->
+  <img src="https://i.imgur.com/4M7IWwP.png"
+       alt="شعار المادة"
+       style="max-width:100%;height:auto;">
+
+  <p>مصدر تعليمي:</p>
+
+  <!-- الفيديو من اليوتيوب -->
+  <iframe width="360" height="215"
+     src="https://www.youtube.com/embed/kPasTK2MpJU"
+     title="YouTube video player"
+     frameborder="0"
+     allowfullscreen>
+  </iframe>
+
+</body>
+</html>
