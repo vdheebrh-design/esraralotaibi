@@ -21,9 +21,9 @@
   </ol>
 
   <!-- الصورة -->
-  <img src="https://i.imgur.com/4M7IWwP.png"
-       alt="شعار المادة"
-       style="max-width:100%;height:auto;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_HTML5.png"
+     alt="شعار المادة"
+     style="display:block; margin:20px auto; max-width:200px;">
 
   <p>مصدر تعليمي:</p>
 
